@@ -1,0 +1,16 @@
+date,asset,functional_location,finding,status,engineer,severity
+2024-01-08,P-101,AREA-A/PUMP-101,Pump showing elevated vibration on drive end bearing. Trend increasing over last 3 weeks. Recommend inspection at next opportunity.,Open,A.Hansen,Medium
+2024-01-09,K-201,AREA-B/COMP-201,Compressor suction pressure trending low. Possible filter fouling. PE impact estimated 2%.,Open,T.Berg,High
+2024-01-10,HX-301,AREA-C/HX-301,Heat exchanger duty dropping. Fouling suspected on shell side. Delta-T reduced from 28 to 21 degrees.,Open,A.Hansen,Medium
+2024-01-15,P-102,AREA-A/PUMP-102,Intermittent cavitation noise during peak throughput. Likely NPSH margin too tight at current production rate.,Open,M.Olsen,Low
+2024-01-17,K-201,AREA-B/COMP-201,Vibration spike observed on anti-surge valve actuation. Valve response sluggish. Instrument check required.,Open,T.Berg,High
+2024-01-22,V-401,AREA-D/VESSEL-401,Level control unstable. Controller hunting between 40-60%. Tuning required.,Closed,A.Hansen,Low
+2024-01-25,P-101,AREA-A/PUMP-101,Drive end bearing replaced during planned shutdown. Vibration returned to baseline.,Closed,M.Olsen,Medium
+2024-02-01,K-202,AREA-B/COMP-202,New finding: seal gas flow higher than expected. Possible seal degradation. Monitor closely.,Open,T.Berg,High
+2024-02-03,HX-302,AREA-C/HX-302,Outlet temperature trending 4 degrees below design. Throughput reduced to compensate. Clean at next outage.,Open,A.Hansen,Medium
+2024-02-07,P-103,AREA-A/PUMP-103,Mechanical seal leaking. Minor. Within acceptable limits but flagged for next maintenance window.,Open,M.Olsen,Low
+2024-02-10,K-201,AREA-B/COMP-201,Suction filter replaced. Pressure differential normalised. PE improvement ~2% confirmed post-change.,Closed,T.Berg,High
+2024-02-14,V-402,AREA-D/VESSEL-402,Foam detected on level instrument. Antifoam dosing increased. Monitor for 48h.,Closed,A.Hansen,Low
+2024-02-19,P-104,AREA-A/PUMP-104,Efficiency curve deviated from baseline by 8%. Impeller wear suspected. Plan inspection.,Open,M.Olsen,Medium
+2024-02-22,HX-301,AREA-C/HX-301,Shell side cleaned during TAR. Duty restored. Delta-T back to 27 degrees.,Closed,A.Hansen,Medium
+2024-02-28,K-203,AREA-B/COMP-203,Discharge temperature elevated. Interstage cooler underperforming. Tube fouling suspected.,Open,T.Berg,High
